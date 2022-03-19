@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Courgette&family=Hubballi&family=Metal+Mania&family=Niconne&family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar&family=Permanent+Marker&display=swap');
+
+body {
+    font-family: "Hubballi";
+    background-image: url(/images/tech.webp);
+    color: white;
+}
+
+.header {
+    font-family: "Permanent Marker";
+    font-size: 25px;
+    color: gold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 230px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* background-color: rgb(177, 153, 153); */
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+li a:hover {
+    background-color: goldenrod;
+    color: white;
+    cursor: pointer;
+}
+.card {
+    background: #000000d0;
+    padding: 2em;
+    border-radius: 30px;
+}
+
+.head1 {
+    font-size: 50px;
+    font-family:"Permanent Marker";
+    color: goldenrod;
+}
+
+.para {
+    font-size: 30px;
+}

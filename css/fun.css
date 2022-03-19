@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Courgette&family=Hubballi&family=Metal+Mania&family=Niconne&family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar&family=Permanent+Marker&display=swap');
+
+body {
+    font-family: "Hubballi";
+    background-image: url(/images/tech.webp);
+    color: white;
+}
+
+.header {
+    font-family: "Permanent Marker";
+    font-size: 25px;
+    color: gold;
+}
+.card {
+    background: #000000d0;
+    padding: 2em;
+    border-radius: 30px;
+
+}
+.card2 {
+    background:#1d1c1ca8 ;
+    padding: 3em;
+    border-radius: 30px;
+}
+
+
+.head1 {
+    font-size: 50px;
+    font-family:"Permanent Marker";
+    color: goldenrod;
+}
+
+.para1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.para2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.nxtbtn {
+    text-align: right;
+}
+
+.nxt {
+    text-align: center;
+    padding: 10px;
+    background-color: gold;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.nxt a {
+    text-decoration: none;
+}
+
+.nxt:hover {
+    background-color: chartreuse;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.final {
+    text-align: center;
+   
+}
+
+.final li a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.final li a:hover {
+    background-color: gold;
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+    color: black;
+    padding: 10px;
+}
+
+.snd {
+    background-color: gold;
+    padding: 8px;
+
+}
+
+.snd:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    font-weight: bold;
+
+}
+
+.labe {
+    font-size: 25px;
+    padding: 5px;
+}
+
+.lab {
+    width: 500px;
+    padding: 5px;
+}
+
